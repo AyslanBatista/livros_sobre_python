@@ -69,34 +69,6 @@ valor total será de 1116.5357142857144
 chegará em casa para o café da manhã às 7:30 e 6 segundos.
 """
 
-3.1.1 """
-atividade3-1.py
-"""
-
-3.2.1 """
-atividade3-2-1.py
-"""
-
-3.2.2 """
-atividade3-2-2.py
-"""
-
-3.2.3 """
-atividade3-2-3.py
-"""
-
-3.2.4 """
-atividade3-2-4.py
-"""
-
-3.2.5 """
-atividade3-2-5.py
-"""
-
-3.3.1 """
-atividade3-3-1.py
-"""
-
-3.3.2 """
-atividade3-3-2.py
+5.2.1 """
+RecursionError: maximum recursion depth exceeded
 """
